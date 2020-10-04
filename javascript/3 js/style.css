@@ -1,0 +1,21 @@
+#p1{
+    width: 150px;
+    background-color: red;
+    position: absolute;
+    bottom: 0%;
+    left: 35%;
+}
+#p2{
+    width: 150px;
+    height: 100px;
+    background-color: blue;
+
+    position: absolute;
+    bottom:  0%;
+    left: 65%;
+
+}
+
+hr{
+    margin-top: 400px;
+}
